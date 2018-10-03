@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="1.2.0" uuid="nao_chatbot_with_animation-3678fc">
+ <names>
+  <name lang="en_US">NAO_ChatBot_with_Animation</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">App for communicating with DialogFlow API</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+ <requirements>
+  <robotRequirement model="NAO_H25"/>
+ </requirements>
+</package>
